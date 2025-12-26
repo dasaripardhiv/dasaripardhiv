@@ -1,16 +1,58 @@
-## Hi there 👋
+✨ About Me
 
-<!--
-**dasaripardhiv/dasaripardhiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Pardhiv Dasari, an aspiring AI Engineer currently on a journey to build real-world AI systems using LLMs, RAG, Agents, Vector Databases, and Python backend development. I believe in learning by building — and I'm documenting my progress publicly through projects, GitHub commits and LinkedIn posts.
 
-Here are some ideas to get you started:
+🚀 What I’m Currently Doing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Following a 60-Day AI Engineering Learning Roadmap
+
+Building AI tools using OpenAI API, Python & FastAPI
+
+Exploring LangChain, Vector DBs & Agentic AI Systems
+
+Developing hands-on projects and pushing daily to GitHub
+
+🔭 Projects I’m Working On
+
+🧠 AI Chat Console Bot
+
+📄 Resume Review & ATS AI Assistant
+
+📚 Smart RAG Knowledge Base Search
+
+🎙️ Voice-Based Rural Support Bot
+
+(More coming as the journey continues)
+
+🌱 Learning & Interests
+
+AI Engineering
+
+Prompt Engineering
+
+RAG + Vector Databases
+
+LangChain / LlamaIndex
+
+Agents & Workflow Automation
+
+Deployment & Scalability
+
+🛠 Tech Stack
+AI/LLMs	Backend	Tools
+OpenAI API • LangChain • Embeddings	Python • FastAPI	Git • GitHub • VS Code
+Whisper • RAG • Vector DB	Flask • APIs	Postman • Railway/Render
+🔥 Goal
+
+To build industry-ready Agentic AI applications and contribute to impactful AI products that solve real problems for students, communities, and businesses.
+
+📫 Reach Me
+
+LinkedIn: https://linkedin.com/in/dasaripardhiv
+
+GitHub: https://github.com/dasaripardhiv
+
+“Small progress daily → Big transformation.” 🧩
+😄 Pronouns: He/Him
+⚡ Fun fact: Cynophobic
+
